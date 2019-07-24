@@ -23,3 +23,8 @@ https://github.com/hunkim/DeepLearningZeroToAll/blob/master/lab-12-5-rnn_stock_p
 https://github.com/nlintz/TensorFlow-Tutorials/
 
 https://github.com/golbin/TensorFlow-ML-Exercises
+
+#another great
+https://github.com/golbin/TensorFlow-Tutorials
+
+https://github.com/nlintz/TensorFlow-Tutorials/
